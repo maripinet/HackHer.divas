@@ -1,0 +1,12 @@
+Número da equipe no Discord Hacking.Her:
+13
+
+Quantos integrantes a equipe tem? - ATENÇÃO: até às 12:00 de sábado 13/07 para incluir outras integrantes - até 5 pessoas por equipe. Número de pessoas na equipe : 5
+
+Desafio escolhido:
+2) DESAFIO SEBRAE
+Solução que vise aumentar, no setor tecnológico, o número de empresas lideradas por mulheres?
+
+Descrição curta do projeto (Ideia inicial, pode mudar/pivotar depois) O que é? App? Web? SAS? Hardware? Outro? O que faz?:
+
+Uma plataforma que entrega networking, aceleraçao e possibilidade de investimento utilizando WEB, blockchain smartcontract e React. Conectamos mulheres dentro do setor de tecnologia, e disponibilizamos recursos para que possam se desenvolver na sua trajetoria empreendedora por meio de startup.
